@@ -29,6 +29,7 @@ h3 {
 p {
   font-weight: bold;
   line-height: 2;
+  font-size: 1.4rem;
 }
 
 hr {
@@ -102,6 +103,7 @@ a:hover {
   width: 20%;
   float: left;
   margin-right: 30px;
+  margin-bottom: 100px;
   display:block;
 
 }
@@ -156,6 +158,9 @@ a:hover {
   margin: 40px auto 60px;
 }
 
+.skills-paragraphs{
+
+}
 
 /*  margin: 0 auto;
 This tells the browser that the top and bottom margins should be zero
